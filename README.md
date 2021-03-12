@@ -9,13 +9,6 @@
 }
 ```
 
-### 测试配置是否成功
-
-Safari 输入 Universal Links
-
-```
-https://h5.shundaojia.com/app/passenger/
-```
 
 ### iOS
 

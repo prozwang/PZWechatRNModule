@@ -19,14 +19,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sdcx/react-native-wechat.git",
-    "baseUrl": "https://github.com/sdcx/react-native-wechat"
+    "url": "git+https://github.com/prozwang/PZWechatRNModule.git",
+    "baseUrl": "https://github.com/prozwang/PZWechatRNModule"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
-    "name": "Proz",
+    "name": "prozwang",
     "email": "5195192@qq.com"
   },
   "license": "MIT",
@@ -65,8 +65,5 @@
       "json",
       "node"
     ]
-  },
-  "publishConfig": {
-    "registry": "https://nexus-hk.shundaojia.com/repository/npm-packages/"
   }
 }
