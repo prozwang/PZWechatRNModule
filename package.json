@@ -1,7 +1,7 @@
 {
   "name": "pz-rn-wechat",
   "title": "React Native Wechat",
-  "version": "1.2.4",
+  "version": "1.2.7",
   "nativePackage": true,
   "description": "微信登录，微信支付，微信分享",
   "main": "./lib/index.js",

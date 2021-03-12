@@ -8,7 +8,7 @@
 #import "RNWechatHelper.h"
 #import <WechatOpenSDK/WXApi.h>
 #import <React/RCTLog.h>
-#import <RNPromise/RNPromise.h>
+#import "RNPromise.h"
 
 @interface RNWechatHelper () <WXApiDelegate>
 

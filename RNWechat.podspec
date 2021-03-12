@@ -14,7 +14,6 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/github-account/react-native-wechat.git", :tag => "#{s.version}" }
 
   s.source_files = "ios/Wechat/**/*.{h,m,swift}"
-  s.dependency "RNPromise"
   s.dependency "React"
   s.dependency "WechatOpenSDK", "1.8.6"
 end

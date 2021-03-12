@@ -1,7 +1,7 @@
 #import "RNWechat.h"
 #import "RNWechatHelper.h"
 #import <WechatOpenSDK/WXApi.h>
-#import <RNPromise/RNPromise.h>
+#import "RNPromise.h"
 
 @implementation RNWechat
 
